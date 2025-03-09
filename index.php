@@ -159,6 +159,7 @@ if ($page === 'home') {
 <footer>
     <p>&copy; <?= date("Y") ?> Courses LMS</p>
 </footer>
+<script src="https://ghostwhite.jocarsa.com/analytics.js?user=comoprogramar.es"></script>
 </body>
 </html>
 
