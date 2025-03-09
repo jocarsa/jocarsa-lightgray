@@ -52,6 +52,7 @@ $page = isset($_GET['page']) ? $_GET['page'] : 'home';
 <!DOCTYPE html>
 <html lang="es">
 <head>
+	<link rel="icon" type="image/svg+xml" href="lightgray.png">
     <meta charset="UTF-8">
     <title><?= htmlspecialchars($seo['head_title']) ?></title>
     <meta name="description" content="<?= htmlspecialchars($seo['meta_description']) ?>">
@@ -61,7 +62,7 @@ $page = isset($_GET['page']) ? $_GET['page'] : 'home';
 </head>
 <body>
 <header>
-    <h1><?= htmlspecialchars($seo['web_title']) ?></h1>
+    <h1><img src="lightgray.png"><?= htmlspecialchars($seo['web_title']) ?></h1>
     <p><?= htmlspecialchars($seo['web_subtitle']) ?></p>
     <nav>
         <a href="index.php?page=home">Inicio</a>

@@ -1,7 +1,8 @@
 /* style.css – Estilos profesionales para el front-end */
+@import url('https://static.jocarsa.com/fuentes/ubuntu-font-family-0.83/ubuntu.css');
 
 body {
-    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-family: Ubuntu, Arial, sans-serif;
     background: #f7f8fc;
     color: #333;
     margin: 0;
@@ -160,4 +161,17 @@ footer {
     padding: 15px;
     font-size: 0.9em;
 }
+header h1{
+	
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: stretch;
 
+}
+header h1 img{
+	width:70px;
+	margin-right:10px;
+	}
