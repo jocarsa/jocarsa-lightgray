@@ -83,7 +83,7 @@ if ($page === 'home') {
             echo '<div class="course-tile">';
             echo '<a href="index.php?page=course&course=' . urlencode($courseName) . '">';
             echo '<img src="' . $thumb . '" alt="' . htmlspecialchars($courseName) . '">';
-            echo '<h3>' . htmlspecialchars($courseName) . '</h3>';
+            echo '<h3>' . str_replace("_"," ",htmlspecialchars($courseName)) . '</h3>';
             echo '</a>';
             echo '</div>';
         }
