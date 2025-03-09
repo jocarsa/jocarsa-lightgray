@@ -1,0 +1,1974 @@
+{
+    "Curso_de_programación_de_videojuegos_isométricos": [
+        {
+            "video_title": "Como programar un juego isométrico   parte 7",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_isométricos/Como_programar_un_juego_isométrico___parte_7.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_isométricos/Como_programar_un_juego_isométrico___parte_7.jpg",
+            "video_url": "https://www.youtube.com/watch?v=-TXipF9xvBQ",
+            "recorded_at": "2025-03-09T02:42:53.321435"
+        },
+        {
+            "video_title": "Como programar un juego isométrico   parte 3",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_isométricos/Como_programar_un_juego_isométrico___parte_3.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_isométricos/Como_programar_un_juego_isométrico___parte_3.jpg",
+            "video_url": "https://www.youtube.com/watch?v=-wp0M9ItWF0",
+            "recorded_at": "2025-03-09T02:42:55.579333"
+        },
+        {
+            "video_title": "Como programar un juego isométrico   parte 1",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_isométricos/Como_programar_un_juego_isométrico___parte_1.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_isométricos/Como_programar_un_juego_isométrico___parte_1.jpg",
+            "video_url": "https://www.youtube.com/watch?v=-zD7y6_Nors",
+            "recorded_at": "2025-03-09T02:42:57.838041"
+        },
+        {
+            "video_title": "Como programar un juego isométrico   parte 2",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_isométricos/Como_programar_un_juego_isométrico___parte_2.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_isométricos/Como_programar_un_juego_isométrico___parte_2.jpg",
+            "video_url": "https://www.youtube.com/watch?v=31IZcAMK_GM",
+            "recorded_at": "2025-03-09T02:43:00.196258"
+        },
+        {
+            "video_title": "Como programar un juego isométrico   parte 8",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_isométricos/Como_programar_un_juego_isométrico___parte_8.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_isométricos/Como_programar_un_juego_isométrico___parte_8.jpg",
+            "video_url": "https://www.youtube.com/watch?v=8q025dUeKT0",
+            "recorded_at": "2025-03-09T02:43:02.326582"
+        },
+        {
+            "video_title": "Como programar un juego isométrico   parte 4",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_isométricos/Como_programar_un_juego_isométrico___parte_4.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_isométricos/Como_programar_un_juego_isométrico___parte_4.jpg",
+            "video_url": "https://www.youtube.com/watch?v=G8yopqEzC8o",
+            "recorded_at": "2025-03-09T02:43:04.978506"
+        },
+        {
+            "video_title": "Como programar un juego isométrico   parte 5",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_isométricos/Como_programar_un_juego_isométrico___parte_5.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_isométricos/Como_programar_un_juego_isométrico___parte_5.jpg",
+            "video_url": "https://www.youtube.com/watch?v=aM0SeObkL2c",
+            "recorded_at": "2025-03-09T02:43:07.138769"
+        },
+        {
+            "video_title": "Como programar un juego isométrico   parte 9",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_isométricos/Como_programar_un_juego_isométrico___parte_9.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_isométricos/Como_programar_un_juego_isométrico___parte_9.jpg",
+            "video_url": "https://www.youtube.com/watch?v=vErS2zAfuts",
+            "recorded_at": "2025-03-09T02:43:09.312886"
+        },
+        {
+            "video_title": "Como programar un juego isométrico   parte 6",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_isométricos/Como_programar_un_juego_isométrico___parte_6.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_isométricos/Como_programar_un_juego_isométrico___parte_6.jpg",
+            "video_url": "https://www.youtube.com/watch?v=ywybhWMxhAU",
+            "recorded_at": "2025-03-09T02:43:11.329648"
+        }
+    ],
+    "Curso_de_programación_de_videojuegos_web": [
+        {
+            "video_title": "01   Curso de programación de videojuegos web   Fundamentos",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/01___Curso_de_programación_de_videojuegos_web___Fundamentos.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/01___Curso_de_programación_de_videojuegos_web___Fundamentos.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Mef11T2ges4",
+            "recorded_at": "2025-03-09T02:43:14.614688"
+        },
+        {
+            "video_title": "02   Curso de programación de videojuegos web   Trabajo con Canvas",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/02___Curso_de_programación_de_videojuegos_web___Trabajo_con_Canvas.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/02___Curso_de_programación_de_videojuegos_web___Trabajo_con_Canvas.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Klgh8StbKQU",
+            "recorded_at": "2025-03-09T02:43:17.443494"
+        },
+        {
+            "video_title": "03   Curso de programación de videojuegos web   Proyectos Prácticos",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/03___Curso_de_programación_de_videojuegos_web___Proyectos_Prácticos.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/03___Curso_de_programación_de_videojuegos_web___Proyectos_Prácticos.jpg",
+            "video_url": "https://www.youtube.com/watch?v=2yONF2DkDIs",
+            "recorded_at": "2025-03-09T02:43:19.963375"
+        },
+        {
+            "video_title": "04   Curso de programación de videojuegos web   Juegos isométricos",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/04___Curso_de_programación_de_videojuegos_web___Juegos_isométricos.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/04___Curso_de_programación_de_videojuegos_web___Juegos_isométricos.jpg",
+            "video_url": "https://www.youtube.com/watch?v=RarADKIQuNE",
+            "recorded_at": "2025-03-09T02:43:22.288921"
+        },
+        {
+            "video_title": "05   Curso de programación de videojuegos web   Fundamentos de Blender",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/05___Curso_de_programación_de_videojuegos_web___Fundamentos_de_Blender.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/05___Curso_de_programación_de_videojuegos_web___Fundamentos_de_Blender.jpg",
+            "video_url": "https://www.youtube.com/watch?v=OLhnRyUXYV8",
+            "recorded_at": "2025-03-09T02:43:24.449290"
+        },
+        {
+            "video_title": "06   Curso de programación de videojuegos web   Fundamentos de GIMP",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/06___Curso_de_programación_de_videojuegos_web___Fundamentos_de_GIMP.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/06___Curso_de_programación_de_videojuegos_web___Fundamentos_de_GIMP.jpg",
+            "video_url": "https://www.youtube.com/watch?v=CdiPpIQXpXg",
+            "recorded_at": "2025-03-09T02:43:26.922658"
+        },
+        {
+            "video_title": "07   Curso de programación de videojuegos web   Fundamentos de Inkscape",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/07___Curso_de_programación_de_videojuegos_web___Fundamentos_de_Inkscape.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/07___Curso_de_programación_de_videojuegos_web___Fundamentos_de_Inkscape.jpg",
+            "video_url": "https://www.youtube.com/watch?v=U0Q0n_-3U2Q",
+            "recorded_at": "2025-03-09T02:43:29.215459"
+        },
+        {
+            "video_title": "08   Curso de programación de videojuegos web   Trabajo con audio",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/08___Curso_de_programación_de_videojuegos_web___Trabajo_con_audio.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/08___Curso_de_programación_de_videojuegos_web___Trabajo_con_audio.jpg",
+            "video_url": "https://www.youtube.com/watch?v=x5f7K7GVgJA",
+            "recorded_at": "2025-03-09T02:43:31.343115"
+        },
+        {
+            "video_title": "09   Curso de programación de videojuegos web   Metodologia",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/09___Curso_de_programación_de_videojuegos_web___Metodologia.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/09___Curso_de_programación_de_videojuegos_web___Metodologia.jpg",
+            "video_url": "https://www.youtube.com/watch?v=lwoZEFwQpKc",
+            "recorded_at": "2025-03-09T02:43:33.364254"
+        },
+        {
+            "video_title": "10   Curso de programación de videojuegos web   PHP",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/10___Curso_de_programación_de_videojuegos_web___PHP.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/10___Curso_de_programación_de_videojuegos_web___PHP.jpg",
+            "video_url": "https://www.youtube.com/watch?v=zrBfFNdvHuU",
+            "recorded_at": "2025-03-09T02:43:35.814796"
+        },
+        {
+            "video_title": "11   Curso de programación de videojuegos web   AJAX",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/11___Curso_de_programación_de_videojuegos_web___AJAX.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/11___Curso_de_programación_de_videojuegos_web___AJAX.jpg",
+            "video_url": "https://www.youtube.com/watch?v=qkhUCVwE9co",
+            "recorded_at": "2025-03-09T02:43:38.276968"
+        },
+        {
+            "video_title": "12   Curso de programación de videojuegos web   CSS3D",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/12___Curso_de_programación_de_videojuegos_web___CSS3D.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/12___Curso_de_programación_de_videojuegos_web___CSS3D.jpg",
+            "video_url": "https://www.youtube.com/watch?v=uxL2ochOzrY",
+            "recorded_at": "2025-03-09T02:43:40.332735"
+        },
+        {
+            "video_title": "13   Curso de programación de videojuegos web   Ejercicio   vida artificial",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/13___Curso_de_programación_de_videojuegos_web___Ejercicio___vida_artificial.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/13___Curso_de_programación_de_videojuegos_web___Ejercicio___vida_artificial.jpg",
+            "video_url": "https://www.youtube.com/watch?v=hdzfGEAPmQw",
+            "recorded_at": "2025-03-09T02:43:42.662081"
+        },
+        {
+            "video_title": "14   Curso de programación de videojuegos web   Ejercicio   editor de fotos online",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/14___Curso_de_programación_de_videojuegos_web___Ejercicio___editor_de_fotos_online.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/14___Curso_de_programación_de_videojuegos_web___Ejercicio___editor_de_fotos_online.jpg",
+            "video_url": "https://www.youtube.com/watch?v=w9GvvqfE-hw",
+            "recorded_at": "2025-03-09T02:43:45.085308"
+        },
+        {
+            "video_title": "15   Curso de programación de videojuegos web   Ejercicio   editor de memes",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/15___Curso_de_programación_de_videojuegos_web___Ejercicio___editor_de_memes.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/15___Curso_de_programación_de_videojuegos_web___Ejercicio___editor_de_memes.jpg",
+            "video_url": "https://www.youtube.com/watch?v=kjO52Pq5jBI",
+            "recorded_at": "2025-03-09T02:43:47.303369"
+        },
+        {
+            "video_title": "16   Curso de programación de videojuegos web   Ejercicio   workers javascript",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/16___Curso_de_programación_de_videojuegos_web___Ejercicio___workers_javascript.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/16___Curso_de_programación_de_videojuegos_web___Ejercicio___workers_javascript.jpg",
+            "video_url": "https://www.youtube.com/watch?v=5SXIJpdW6Qk",
+            "recorded_at": "2025-03-09T02:43:49.564029"
+        },
+        {
+            "video_title": "17   Curso de programación de videojuegos web   Ejercicio   programacion orientada a objetos",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/17___Curso_de_programación_de_videojuegos_web___Ejercicio___programacion_orientada_a_objetos.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/17___Curso_de_programación_de_videojuegos_web___Ejercicio___programacion_orientada_a_objetos.jpg",
+            "video_url": "https://www.youtube.com/watch?v=UgldnY2QCcA",
+            "recorded_at": "2025-03-09T02:43:51.915220"
+        },
+        {
+            "video_title": "18   Curso de programación de videojuegos web   Ejercicio   videojuego de plataformas",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/18___Curso_de_programación_de_videojuegos_web___Ejercicio___videojuego_de_plataformas.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/18___Curso_de_programación_de_videojuegos_web___Ejercicio___videojuego_de_plataformas.jpg",
+            "video_url": "https://www.youtube.com/watch?v=bJZ9vk-pc04",
+            "recorded_at": "2025-03-09T02:43:54.313164"
+        },
+        {
+            "video_title": "19   Curso de programación de videojuegos web   ThreeJS   Primera parte",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/19___Curso_de_programación_de_videojuegos_web___ThreeJS___Primera_parte.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/19___Curso_de_programación_de_videojuegos_web___ThreeJS___Primera_parte.jpg",
+            "video_url": "https://www.youtube.com/watch?v=hTsm_U8oV-s",
+            "recorded_at": "2025-03-09T02:43:56.782256"
+        },
+        {
+            "video_title": "20   Curso de programación de videojuegos web   ThreeJS   Segunda parte",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/20___Curso_de_programación_de_videojuegos_web___ThreeJS___Segunda_parte.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/20___Curso_de_programación_de_videojuegos_web___ThreeJS___Segunda_parte.jpg",
+            "video_url": "https://www.youtube.com/watch?v=HrSBfya2orY",
+            "recorded_at": "2025-03-09T02:43:59.409484"
+        },
+        {
+            "video_title": "21   Curso de programación de videojuegos web   ThreeJS   Tercera parte",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos_web/21___Curso_de_programación_de_videojuegos_web___ThreeJS___Tercera_parte.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos_web/21___Curso_de_programación_de_videojuegos_web___ThreeJS___Tercera_parte.jpg",
+            "video_url": "https://www.youtube.com/watch?v=8W74dtNqobM",
+            "recorded_at": "2025-03-09T02:44:01.930346"
+        }
+    ],
+    "Curso_práctico_de_desarrollo_de_aplicaciones_con_Python": [
+        {
+            "video_title": "Ejemplo práctico de desarrollo de aplicaciones con Python - parte 1",
+            "txt_file_path": "subtitulos/Curso_práctico_de_desarrollo_de_aplicaciones_con_Python/Ejemplo_práctico_de_desarrollo_de_aplicaciones_con_Python_-_parte_1.txt",
+            "thumbnail_file_path": "miniaturas/Curso_práctico_de_desarrollo_de_aplicaciones_con_Python/Ejemplo_práctico_de_desarrollo_de_aplicaciones_con_Python_-_parte_1.jpg",
+            "video_url": "https://www.youtube.com/watch?v=NnPF9WaTzdM",
+            "recorded_at": "2025-03-09T02:44:04.721897"
+        },
+        {
+            "video_title": "Ejemplo práctico de desarrollo de aplicaciones con Python -  parte 2",
+            "txt_file_path": "subtitulos/Curso_práctico_de_desarrollo_de_aplicaciones_con_Python/Ejemplo_práctico_de_desarrollo_de_aplicaciones_con_Python_-__parte_2.txt",
+            "thumbnail_file_path": "miniaturas/Curso_práctico_de_desarrollo_de_aplicaciones_con_Python/Ejemplo_práctico_de_desarrollo_de_aplicaciones_con_Python_-__parte_2.jpg",
+            "video_url": "https://www.youtube.com/watch?v=rcGNZSp56a4",
+            "recorded_at": "2025-03-09T02:44:06.563868"
+        },
+        {
+            "video_title": "Ejemplo práctico de desarrollo de aplicaciones con Python -  parte 3",
+            "txt_file_path": "subtitulos/Curso_práctico_de_desarrollo_de_aplicaciones_con_Python/Ejemplo_práctico_de_desarrollo_de_aplicaciones_con_Python_-__parte_3.txt",
+            "thumbnail_file_path": "miniaturas/Curso_práctico_de_desarrollo_de_aplicaciones_con_Python/Ejemplo_práctico_de_desarrollo_de_aplicaciones_con_Python_-__parte_3.jpg",
+            "video_url": "https://www.youtube.com/watch?v=5qasLXN_Ffg",
+            "recorded_at": "2025-03-09T02:44:08.542906"
+        },
+        {
+            "video_title": "Ejemplo práctico de desarrollo de aplicaciones con Python -  parte 4",
+            "txt_file_path": "subtitulos/Curso_práctico_de_desarrollo_de_aplicaciones_con_Python/Ejemplo_práctico_de_desarrollo_de_aplicaciones_con_Python_-__parte_4.txt",
+            "thumbnail_file_path": "miniaturas/Curso_práctico_de_desarrollo_de_aplicaciones_con_Python/Ejemplo_práctico_de_desarrollo_de_aplicaciones_con_Python_-__parte_4.jpg",
+            "video_url": "https://www.youtube.com/watch?v=FUIe-6F7Z2Y",
+            "recorded_at": "2025-03-09T02:44:10.681205"
+        },
+        {
+            "video_title": "Ejemplo práctico de desarrollo de aplicaciones con Python -  parte 5",
+            "txt_file_path": "subtitulos/Curso_práctico_de_desarrollo_de_aplicaciones_con_Python/Ejemplo_práctico_de_desarrollo_de_aplicaciones_con_Python_-__parte_5.txt",
+            "thumbnail_file_path": "miniaturas/Curso_práctico_de_desarrollo_de_aplicaciones_con_Python/Ejemplo_práctico_de_desarrollo_de_aplicaciones_con_Python_-__parte_5.jpg",
+            "video_url": "https://www.youtube.com/watch?v=so24sQE1fdk",
+            "recorded_at": "2025-03-09T02:44:13.115724"
+        }
+    ],
+    "Curso_de_programación_en_C++": [
+        {
+            "video_title": "CppParte1",
+            "txt_file_path": "subtitulos/Curso_de_programación_en_C++/CppParte1.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_en_C++/CppParte1.jpg",
+            "video_url": "https://www.youtube.com/watch?v=0_7rD0IJ4Mk",
+            "recorded_at": "2025-03-09T02:44:15.937325"
+        },
+        {
+            "video_title": "CppParte3",
+            "txt_file_path": "subtitulos/Curso_de_programación_en_C++/CppParte3.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_en_C++/CppParte3.jpg",
+            "video_url": "https://www.youtube.com/watch?v=3frSe1e_n_c",
+            "recorded_at": "2025-03-09T02:44:17.992279"
+        },
+        {
+            "video_title": "CppParte6",
+            "txt_file_path": "subtitulos/Curso_de_programación_en_C++/CppParte6.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_en_C++/CppParte6.jpg",
+            "video_url": "https://www.youtube.com/watch?v=4zoeLJR6m_Y",
+            "recorded_at": "2025-03-09T02:44:20.030409"
+        },
+        {
+            "video_title": "CppParte2",
+            "txt_file_path": "subtitulos/Curso_de_programación_en_C++/CppParte2.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_en_C++/CppParte2.jpg",
+            "video_url": "https://www.youtube.com/watch?v=LxZH9grieeg",
+            "recorded_at": "2025-03-09T02:44:22.486807"
+        },
+        {
+            "video_title": "CppParte4",
+            "txt_file_path": "subtitulos/Curso_de_programación_en_C++/CppParte4.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_en_C++/CppParte4.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Nj_fvWOoayk",
+            "recorded_at": "2025-03-09T02:44:24.747641"
+        },
+        {
+            "video_title": "CppParte5",
+            "txt_file_path": "subtitulos/Curso_de_programación_en_C++/CppParte5.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_en_C++/CppParte5.jpg",
+            "video_url": "https://www.youtube.com/watch?v=hi7LMfZxPBg",
+            "recorded_at": "2025-03-09T02:44:26.986744"
+        },
+        {
+            "video_title": "CppParte7",
+            "txt_file_path": "subtitulos/Curso_de_programación_en_C++/CppParte7.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_en_C++/CppParte7.jpg",
+            "video_url": "https://www.youtube.com/watch?v=kSFFKntk9og",
+            "recorded_at": "2025-03-09T02:44:29.343564"
+        }
+    ],
+    "Curso_de_creación_web": [
+        {
+            "video_title": "Curso de creación web   5   MySQL",
+            "txt_file_path": "subtitulos/Curso_de_creación_web/Curso_de_creación_web___5___MySQL.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_creación_web/Curso_de_creación_web___5___MySQL.jpg",
+            "video_url": "https://www.youtube.com/watch?v=3umXVrD8wYg",
+            "recorded_at": "2025-03-09T02:44:32.413206"
+        },
+        {
+            "video_title": "Curso de creación web   4   PHP",
+            "txt_file_path": "subtitulos/Curso_de_creación_web/Curso_de_creación_web___4___PHP.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_creación_web/Curso_de_creación_web___4___PHP.jpg",
+            "video_url": "https://www.youtube.com/watch?v=J_i_7v81sd8",
+            "recorded_at": "2025-03-09T02:44:34.831008"
+        },
+        {
+            "video_title": "Curso de creación web   1   HTML",
+            "txt_file_path": "subtitulos/Curso_de_creación_web/Curso_de_creación_web___1___HTML.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_creación_web/Curso_de_creación_web___1___HTML.jpg",
+            "video_url": "https://www.youtube.com/watch?v=RurwhXm744k",
+            "recorded_at": "2025-03-09T02:44:37.070654"
+        },
+        {
+            "video_title": "Curso de creación web   2   CSS",
+            "txt_file_path": "subtitulos/Curso_de_creación_web/Curso_de_creación_web___2___CSS.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_creación_web/Curso_de_creación_web___2___CSS.jpg",
+            "video_url": "https://www.youtube.com/watch?v=mTxVHBjeQQY",
+            "recorded_at": "2025-03-09T02:44:39.412843"
+        },
+        {
+            "video_title": "Curso de creación web   3   Javascript",
+            "txt_file_path": "subtitulos/Curso_de_creación_web/Curso_de_creación_web___3___Javascript.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_creación_web/Curso_de_creación_web___3___Javascript.jpg",
+            "video_url": "https://www.youtube.com/watch?v=nsdT31RYvqI",
+            "recorded_at": "2025-03-09T02:44:41.873691"
+        }
+    ],
+    "Curso_de_programación_de_webapps": [
+        {
+            "video_title": "Curso de programacion de WebApps   parte 6",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_6.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_6.jpg",
+            "video_url": "https://www.youtube.com/watch?v=3ajt4es2cJU",
+            "recorded_at": "2025-03-09T02:44:44.754371"
+        },
+        {
+            "video_title": "Curso de programacion de WebApps   parte 7",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_7.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_7.jpg",
+            "video_url": "https://www.youtube.com/watch?v=HRSrLFeIDaY",
+            "recorded_at": "2025-03-09T02:44:47.147117"
+        },
+        {
+            "video_title": "Curso de programacion de WebApps   parte 2",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_2.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_2.jpg",
+            "video_url": "https://www.youtube.com/watch?v=UTPSUaR6JVQ",
+            "recorded_at": "2025-03-09T02:44:49.596675"
+        },
+        {
+            "video_title": "Curso de programacion de WebApps   parte 3",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_3.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_3.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_dIdmhbzHWU",
+            "recorded_at": "2025-03-09T02:44:51.977362"
+        },
+        {
+            "video_title": "Curso de programacion de WebApps   parte 13",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_13.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_13.jpg",
+            "video_url": "https://www.youtube.com/watch?v=bWyXbI3Ojco",
+            "recorded_at": "2025-03-09T02:44:54.492986"
+        },
+        {
+            "video_title": "Curso de programacion de WebApps   parte 5",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_5.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_5.jpg",
+            "video_url": "https://www.youtube.com/watch?v=cBOoue5OvL8",
+            "recorded_at": "2025-03-09T02:44:56.912118"
+        },
+        {
+            "video_title": "Curso de programacion de WebApps   parte 11",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_11.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_11.jpg",
+            "video_url": "https://www.youtube.com/watch?v=d-_DAWkIz5Q",
+            "recorded_at": "2025-03-09T02:44:59.363253"
+        },
+        {
+            "video_title": "Curso de programacion de WebApps   parte 4",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_4.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_4.jpg",
+            "video_url": "https://www.youtube.com/watch?v=e3UxNmV98yk",
+            "recorded_at": "2025-03-09T02:45:01.781217"
+        },
+        {
+            "video_title": "Curso de programacion de WebApps   parte 8",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_8.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_8.jpg",
+            "video_url": "https://www.youtube.com/watch?v=fimYY9EIvoE",
+            "recorded_at": "2025-03-09T02:45:04.311342"
+        },
+        {
+            "video_title": "Curso de programacion de WebApps   parte 1",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_1.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_1.jpg",
+            "video_url": "https://www.youtube.com/watch?v=hnJt2HZ9j28",
+            "recorded_at": "2025-03-09T02:45:06.397238"
+        },
+        {
+            "video_title": "Curso de programacion de WebApps   parte 10",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_10.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_10.jpg",
+            "video_url": "https://www.youtube.com/watch?v=nvw0IzA5inA",
+            "recorded_at": "2025-03-09T02:45:08.719994"
+        },
+        {
+            "video_title": "Curso de programacion de WebApps   parte 9",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_9.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_webapps/Curso_de_programacion_de_WebApps___parte_9.jpg",
+            "video_url": "https://www.youtube.com/watch?v=vrfh1Kw8UHY",
+            "recorded_at": "2025-03-09T02:45:11.246218"
+        }
+    ],
+    "Curso_de_Unreal_Engine_4.11": [
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00051",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00051.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00051.jpg",
+            "video_url": "https://www.youtube.com/watch?v=f-NZC7vHKdc",
+            "recorded_at": "2025-03-09T02:45:14.663185"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00120",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00120.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00120.jpg",
+            "video_url": "https://www.youtube.com/watch?v=USTKreLVxco",
+            "recorded_at": "2025-03-09T02:45:16.827898"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00123",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00123.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00123.jpg",
+            "video_url": "https://www.youtube.com/watch?v=p1CmBlYM_zQ",
+            "recorded_at": "2025-03-09T02:45:18.843857"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00141",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00141.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00141.jpg",
+            "video_url": "https://www.youtube.com/watch?v=OeAe1wJMDnE",
+            "recorded_at": "2025-03-09T02:45:20.970885"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00146",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00146.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00146.jpg",
+            "video_url": "https://www.youtube.com/watch?v=jydEmZa5omw",
+            "recorded_at": "2025-03-09T02:45:23.203750"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00147",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00147.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00147.jpg",
+            "video_url": "https://www.youtube.com/watch?v=NjK5wHUZLyQ",
+            "recorded_at": "2025-03-09T02:45:25.097668"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00154",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00154.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00154.jpg",
+            "video_url": "https://www.youtube.com/watch?v=6NI4DOmTnK8",
+            "recorded_at": "2025-03-09T02:45:27.813194"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00110",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00110.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00110.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Jsl8Fro0MD8",
+            "recorded_at": "2025-03-09T02:45:29.838153"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00143",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00143.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00143.jpg",
+            "video_url": "https://www.youtube.com/watch?v=L95_e4Jrl7w",
+            "recorded_at": "2025-03-09T02:45:31.765982"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00046",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00046.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00046.jpg",
+            "video_url": "https://www.youtube.com/watch?v=B-1aj9JGglg",
+            "recorded_at": "2025-03-09T02:45:33.734336"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00033",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00033.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00033.jpg",
+            "video_url": "https://www.youtube.com/watch?v=rmeAPKiNsFI",
+            "recorded_at": "2025-03-09T02:45:35.714697"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00122",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00122.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00122.jpg",
+            "video_url": "https://www.youtube.com/watch?v=sjwHw-pnh0M",
+            "recorded_at": "2025-03-09T02:45:37.669755"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00032",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00032.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00032.jpg",
+            "video_url": "https://www.youtube.com/watch?v=ismdON6U-HM",
+            "recorded_at": "2025-03-09T02:45:39.729772"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00041",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00041.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00041.jpg",
+            "video_url": "https://www.youtube.com/watch?v=esO9wPGCJkQ",
+            "recorded_at": "2025-03-09T02:45:41.854527"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00038",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00038.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00038.jpg",
+            "video_url": "https://www.youtube.com/watch?v=3PKRYjOU4SM",
+            "recorded_at": "2025-03-09T02:45:44.030126"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00136",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00136.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00136.jpg",
+            "video_url": "https://www.youtube.com/watch?v=1zJpuXRVkaA",
+            "recorded_at": "2025-03-09T02:45:46.086512"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00130",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00130.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00130.jpg",
+            "video_url": "https://www.youtube.com/watch?v=VfpggSMQq6s",
+            "recorded_at": "2025-03-09T02:45:47.937477"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00138",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00138.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00138.jpg",
+            "video_url": "https://www.youtube.com/watch?v=RxpY70YVJ44",
+            "recorded_at": "2025-03-09T02:45:50.465239"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00074",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00074.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00074.jpg",
+            "video_url": "https://www.youtube.com/watch?v=PM1h3xT-Z-k",
+            "recorded_at": "2025-03-09T02:45:52.498910"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00115",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00115.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00115.jpg",
+            "video_url": "https://www.youtube.com/watch?v=HjumV0Ytxog",
+            "recorded_at": "2025-03-09T02:45:54.637639"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00128",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00128.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00128.jpg",
+            "video_url": "https://www.youtube.com/watch?v=ERqA104l3sw",
+            "recorded_at": "2025-03-09T02:45:56.685916"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00107",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00107.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00107.jpg",
+            "video_url": "https://www.youtube.com/watch?v=DBi2rLq4uEc",
+            "recorded_at": "2025-03-09T02:45:58.961552"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00111",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00111.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00111.jpg",
+            "video_url": "https://www.youtube.com/watch?v=D9t7PcbuaPo",
+            "recorded_at": "2025-03-09T02:46:01.485764"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00112",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00112.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00112.jpg",
+            "video_url": "https://www.youtube.com/watch?v=C3K_pK36Ql0",
+            "recorded_at": "2025-03-09T02:46:03.236540"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00055",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00055.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00055.jpg",
+            "video_url": "https://www.youtube.com/watch?v=BkjPHwkamlY",
+            "recorded_at": "2025-03-09T02:46:05.299167"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00093",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00093.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00093.jpg",
+            "video_url": "https://www.youtube.com/watch?v=BfKwv2AfNX4",
+            "recorded_at": "2025-03-09T02:46:07.370217"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00124",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00124.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00124.jpg",
+            "video_url": "https://www.youtube.com/watch?v=94STsseSuCw",
+            "recorded_at": "2025-03-09T02:46:09.496324"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00070",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00070.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00070.jpg",
+            "video_url": "https://www.youtube.com/watch?v=8iWJdOsy7FY",
+            "recorded_at": "2025-03-09T02:46:11.661408"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00114",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00114.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00114.jpg",
+            "video_url": "https://www.youtube.com/watch?v=7zs5zAJyRcs",
+            "recorded_at": "2025-03-09T02:46:13.786173"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00132",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00132.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00132.jpg",
+            "video_url": "https://www.youtube.com/watch?v=5YJhirExvB0",
+            "recorded_at": "2025-03-09T02:46:15.862902"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00137",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00137.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00137.jpg",
+            "video_url": "https://www.youtube.com/watch?v=1Z_7UDa40Tc",
+            "recorded_at": "2025-03-09T02:46:17.781443"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00148",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00148.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00148.jpg",
+            "video_url": "https://www.youtube.com/watch?v=0pklcHXsQ64",
+            "recorded_at": "2025-03-09T02:46:19.836972"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00109",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00109.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00109.jpg",
+            "video_url": "https://www.youtube.com/watch?v=0AvREm89rAs",
+            "recorded_at": "2025-03-09T02:46:22.110403"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00118",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00118.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00118.jpg",
+            "video_url": "https://www.youtube.com/watch?v=-fEpX7hTwfM",
+            "recorded_at": "2025-03-09T02:46:23.999147"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00152",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00152.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00152.jpg",
+            "video_url": "https://www.youtube.com/watch?v=ySWkk2Sa9iI",
+            "recorded_at": "2025-03-09T02:46:25.985521"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00082",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00082.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00082.jpg",
+            "video_url": "https://www.youtube.com/watch?v=v_QnKTQm9sc",
+            "recorded_at": "2025-03-09T02:46:28.014506"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00087",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00087.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00087.jpg",
+            "video_url": "https://www.youtube.com/watch?v=v3JBdq9xh3Y",
+            "recorded_at": "2025-03-09T02:46:29.962011"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00129",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00129.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00129.jpg",
+            "video_url": "https://www.youtube.com/watch?v=tZOvWAvAW0s",
+            "recorded_at": "2025-03-09T02:46:32.114946"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00142",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00142.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00142.jpg",
+            "video_url": "https://www.youtube.com/watch?v=qIS7vaUKWyc",
+            "recorded_at": "2025-03-09T02:46:34.148955"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00140",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00140.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00140.jpg",
+            "video_url": "https://www.youtube.com/watch?v=oxdcgGq40SY",
+            "recorded_at": "2025-03-09T02:46:36.119087"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00144",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00144.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00144.jpg",
+            "video_url": "https://www.youtube.com/watch?v=oscokC54XRY",
+            "recorded_at": "2025-03-09T02:46:38.347998"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00067",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00067.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00067.jpg",
+            "video_url": "https://www.youtube.com/watch?v=m9BREN0MAfQ",
+            "recorded_at": "2025-03-09T02:46:40.182272"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00113",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00113.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00113.jpg",
+            "video_url": "https://www.youtube.com/watch?v=ie-EsrDeTX0",
+            "recorded_at": "2025-03-09T02:46:42.347113"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00139",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00139.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00139.jpg",
+            "video_url": "https://www.youtube.com/watch?v=gzN79b-pZuU",
+            "recorded_at": "2025-03-09T02:46:44.414984"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00108",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00108.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00108.jpg",
+            "video_url": "https://www.youtube.com/watch?v=fYRDoldPe9w",
+            "recorded_at": "2025-03-09T02:46:46.536869"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00155",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00155.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00155.jpg",
+            "video_url": "https://www.youtube.com/watch?v=cTGpjewTFjg",
+            "recorded_at": "2025-03-09T02:46:48.611196"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00121",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00121.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00121.jpg",
+            "video_url": "https://www.youtube.com/watch?v=ZNHMv2Rpt60",
+            "recorded_at": "2025-03-09T02:46:50.735967"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00125",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00125.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00125.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Xns8DCtXSbw",
+            "recorded_at": "2025-03-09T02:46:52.803685"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00117",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00117.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00117.jpg",
+            "video_url": "https://www.youtube.com/watch?v=A7fy2Rnc4O0",
+            "recorded_at": "2025-03-09T02:46:54.680052"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00134",
+            "txt_file_path": null,
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00134.jpg",
+            "video_url": "https://www.youtube.com/watch?v=8m8Uvz0cUEA",
+            "recorded_at": "2025-03-09T02:46:56.342567"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00151",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00151.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00151.jpg",
+            "video_url": "https://www.youtube.com/watch?v=5iYIoyTD2Mw",
+            "recorded_at": "2025-03-09T02:46:58.669577"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00106",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00106.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00106.jpg",
+            "video_url": "https://www.youtube.com/watch?v=5c3-QfWIwpU",
+            "recorded_at": "2025-03-09T02:47:00.640090"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00145",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00145.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00145.jpg",
+            "video_url": "https://www.youtube.com/watch?v=-8eUwu9XBZE",
+            "recorded_at": "2025-03-09T02:47:02.596187"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00153",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00153.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00153.jpg",
+            "video_url": "https://www.youtube.com/watch?v=xxUr1zfbVX4",
+            "recorded_at": "2025-03-09T02:47:04.553772"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00131",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00131.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00131.jpg",
+            "video_url": "https://www.youtube.com/watch?v=vHqtdeu9rno",
+            "recorded_at": "2025-03-09T02:47:06.513044"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00092",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00092.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00092.jpg",
+            "video_url": "https://www.youtube.com/watch?v=s8vZi_iSFOA",
+            "recorded_at": "2025-03-09T02:47:08.478657"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00066",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00066.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00066.jpg",
+            "video_url": "https://www.youtube.com/watch?v=jwC00vD6Q-0",
+            "recorded_at": "2025-03-09T02:47:10.608788"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00149",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00149.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00149.jpg",
+            "video_url": "https://www.youtube.com/watch?v=fpwhlcgvvRQ",
+            "recorded_at": "2025-03-09T02:47:12.895018"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00116",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00116.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00116.jpg",
+            "video_url": "https://www.youtube.com/watch?v=cpDuAp0mZKQ",
+            "recorded_at": "2025-03-09T02:47:15.028417"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00126",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00126.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00126.jpg",
+            "video_url": "https://www.youtube.com/watch?v=V-sQxyB6PmM",
+            "recorded_at": "2025-03-09T02:47:17.047210"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00119",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00119.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00119.jpg",
+            "video_url": "https://www.youtube.com/watch?v=TqOBmmYeiD8",
+            "recorded_at": "2025-03-09T02:47:19.092533"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00133",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00133.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00133.jpg",
+            "video_url": "https://www.youtube.com/watch?v=PXnk0g_7QHc",
+            "recorded_at": "2025-03-09T02:47:21.411990"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00150",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00150.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00150.jpg",
+            "video_url": "https://www.youtube.com/watch?v=JmUao-kgOk4",
+            "recorded_at": "2025-03-09T02:47:23.577800"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00135",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00135.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00135.jpg",
+            "video_url": "https://www.youtube.com/watch?v=GRUQk6-R844",
+            "recorded_at": "2025-03-09T02:47:25.364891"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00127",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00127.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00127.jpg",
+            "video_url": "https://www.youtube.com/watch?v=E--pjklDrJk",
+            "recorded_at": "2025-03-09T02:47:27.536522"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00101",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00101.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00101.jpg",
+            "video_url": "https://www.youtube.com/watch?v=VfoYeQEfQV4",
+            "recorded_at": "2025-03-09T02:47:29.396272"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00103",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00103.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00103.jpg",
+            "video_url": "https://www.youtube.com/watch?v=XwVn-u6e-fM",
+            "recorded_at": "2025-03-09T02:47:31.278294"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00105",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00105.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00105.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Xp74wUUAGF8",
+            "recorded_at": "2025-03-09T02:47:33.798114"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00099",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00099.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00099.jpg",
+            "video_url": "https://www.youtube.com/watch?v=XIvS4Swxhxc",
+            "recorded_at": "2025-03-09T02:47:36.027762"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00061",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00061.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00061.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Wk11mn6uB8U",
+            "recorded_at": "2025-03-09T02:47:38.252804"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00047",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00047.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00047.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Tra4AoX_q0A",
+            "recorded_at": "2025-03-09T02:47:40.812847"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00075",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00075.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00075.jpg",
+            "video_url": "https://www.youtube.com/watch?v=P_2QXvlpUGA",
+            "recorded_at": "2025-03-09T02:47:42.878832"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00063",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00063.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00063.jpg",
+            "video_url": "https://www.youtube.com/watch?v=PJqE3ViRaVE",
+            "recorded_at": "2025-03-09T02:47:45.718818"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00040",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00040.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00040.jpg",
+            "video_url": "https://www.youtube.com/watch?v=OfMaJ9G5lVs",
+            "recorded_at": "2025-03-09T02:47:47.696105"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00064",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00064.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00064.jpg",
+            "video_url": "https://www.youtube.com/watch?v=M9c485Azr0U",
+            "recorded_at": "2025-03-09T02:47:49.715320"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00072",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00072.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00072.jpg",
+            "video_url": "https://www.youtube.com/watch?v=M0Gb76AzVzM",
+            "recorded_at": "2025-03-09T02:47:51.684825"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00059",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00059.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00059.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Lx0f7eridO4",
+            "recorded_at": "2025-03-09T02:47:53.706181"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00057",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00057.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00057.jpg",
+            "video_url": "https://www.youtube.com/watch?v=L03AOIxV8j0",
+            "recorded_at": "2025-03-09T02:47:55.644896"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00042",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00042.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00042.jpg",
+            "video_url": "https://www.youtube.com/watch?v=KpExOuE5Ww4",
+            "recorded_at": "2025-03-09T02:47:57.512802"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00054",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00054.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00054.jpg",
+            "video_url": "https://www.youtube.com/watch?v=J6NPNLAIoZM",
+            "recorded_at": "2025-03-09T02:47:59.686670"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00098",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00098.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00098.jpg",
+            "video_url": "https://www.youtube.com/watch?v=IxH2naw9OPU",
+            "recorded_at": "2025-03-09T02:48:01.557952"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00069",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00069.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00069.jpg",
+            "video_url": "https://www.youtube.com/watch?v=DfVHicfsSmI",
+            "recorded_at": "2025-03-09T02:48:03.779423"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00091",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00091.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00091.jpg",
+            "video_url": "https://www.youtube.com/watch?v=DDM48nRvsLA",
+            "recorded_at": "2025-03-09T02:48:05.706091"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00083",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00083.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00083.jpg",
+            "video_url": "https://www.youtube.com/watch?v=AsIIzKfNOUM",
+            "recorded_at": "2025-03-09T02:48:07.436360"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00050",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00050.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00050.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Af9Qjt79e-I",
+            "recorded_at": "2025-03-09T02:48:09.496104"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00090",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00090.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00090.jpg",
+            "video_url": "https://www.youtube.com/watch?v=AQb3mfHTCpQ",
+            "recorded_at": "2025-03-09T02:48:11.726410"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00065",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00065.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00065.jpg",
+            "video_url": "https://www.youtube.com/watch?v=9-ZO2LHBefY",
+            "recorded_at": "2025-03-09T02:48:13.564504"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00049",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00049.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00049.jpg",
+            "video_url": "https://www.youtube.com/watch?v=8ghINvG72nI",
+            "recorded_at": "2025-03-09T02:48:15.423320"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00096",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00096.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00096.jpg",
+            "video_url": "https://www.youtube.com/watch?v=8RLD1yKSE54",
+            "recorded_at": "2025-03-09T02:48:17.277112"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00084",
+            "txt_file_path": null,
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00084.jpg",
+            "video_url": "https://www.youtube.com/watch?v=7xtI1LCQXVk",
+            "recorded_at": "2025-03-09T02:48:19.138036"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00062",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00062.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00062.jpg",
+            "video_url": "https://www.youtube.com/watch?v=5rdPEFrGZ_k",
+            "recorded_at": "2025-03-09T02:48:21.110544"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00076",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00076.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00076.jpg",
+            "video_url": "https://www.youtube.com/watch?v=048ZZiozHEE",
+            "recorded_at": "2025-03-09T02:48:23.432611"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00079",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00079.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00079.jpg",
+            "video_url": "https://www.youtube.com/watch?v=zG7Rrt18y0w",
+            "recorded_at": "2025-03-09T02:48:25.631780"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00094",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00094.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00094.jpg",
+            "video_url": "https://www.youtube.com/watch?v=yMpCJtXrBLc",
+            "recorded_at": "2025-03-09T02:48:27.892414"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00031",
+            "txt_file_path": null,
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00031.jpg",
+            "video_url": "https://www.youtube.com/watch?v=wfrHXGSydI0",
+            "recorded_at": "2025-03-09T02:48:29.613908"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00078",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00078.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00078.jpg",
+            "video_url": "https://www.youtube.com/watch?v=wGc4tciQzKU",
+            "recorded_at": "2025-03-09T02:48:31.636408"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00058",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00058.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00058.jpg",
+            "video_url": "https://www.youtube.com/watch?v=vKsF-MJU300",
+            "recorded_at": "2025-03-09T02:48:34.085201"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00097",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00097.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00097.jpg",
+            "video_url": "https://www.youtube.com/watch?v=uIB5SmUrQ34",
+            "recorded_at": "2025-03-09T02:48:36.111788"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00102",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00102.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00102.jpg",
+            "video_url": "https://www.youtube.com/watch?v=tIN-xz9GESY",
+            "recorded_at": "2025-03-09T02:48:37.773571"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00095",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00095.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00095.jpg",
+            "video_url": "https://www.youtube.com/watch?v=sHobzLI2KqI",
+            "recorded_at": "2025-03-09T02:48:39.912218"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00088",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00088.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00088.jpg",
+            "video_url": "https://www.youtube.com/watch?v=mr6j9E39484",
+            "recorded_at": "2025-03-09T02:48:41.954042"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00052",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00052.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00052.jpg",
+            "video_url": "https://www.youtube.com/watch?v=mNCo_OUw5o4",
+            "recorded_at": "2025-03-09T02:48:43.947112"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00044",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00044.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00044.jpg",
+            "video_url": "https://www.youtube.com/watch?v=lHRzppadj6c",
+            "recorded_at": "2025-03-09T02:48:46.005828"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00048",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00048.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00048.jpg",
+            "video_url": "https://www.youtube.com/watch?v=kyscGZVB3Y8",
+            "recorded_at": "2025-03-09T02:48:48.228883"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00071",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00071.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00071.jpg",
+            "video_url": "https://www.youtube.com/watch?v=kd_wa8HyHgU",
+            "recorded_at": "2025-03-09T02:48:50.552365"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00056",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00056.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00056.jpg",
+            "video_url": "https://www.youtube.com/watch?v=jVH3YmOW9K4",
+            "recorded_at": "2025-03-09T02:48:52.485649"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00081",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00081.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00081.jpg",
+            "video_url": "https://www.youtube.com/watch?v=iwrmOpZzsL8",
+            "recorded_at": "2025-03-09T02:48:54.785664"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00060",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00060.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00060.jpg",
+            "video_url": "https://www.youtube.com/watch?v=gUhhZX2aACk",
+            "recorded_at": "2025-03-09T02:48:57.122233"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00073",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00073.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00073.jpg",
+            "video_url": "https://www.youtube.com/watch?v=egSPU0F6uDg",
+            "recorded_at": "2025-03-09T02:48:58.962308"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00104",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00104.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00104.jpg",
+            "video_url": "https://www.youtube.com/watch?v=dSgj3xeewow",
+            "recorded_at": "2025-03-09T02:49:01.121947"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00080",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00080.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00080.jpg",
+            "video_url": "https://www.youtube.com/watch?v=cuEX8hvgSh8",
+            "recorded_at": "2025-03-09T02:49:02.979561"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00039",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00039.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00039.jpg",
+            "video_url": "https://www.youtube.com/watch?v=cKnGcaK-_QI",
+            "recorded_at": "2025-03-09T02:49:05.225279"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00053",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00053.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00053.jpg",
+            "video_url": "https://www.youtube.com/watch?v=bwxkxAq6Iuc",
+            "recorded_at": "2025-03-09T02:49:07.544778"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00100",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00100.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00100.jpg",
+            "video_url": "https://www.youtube.com/watch?v=aB4ktVcPXEI",
+            "recorded_at": "2025-03-09T02:49:09.815199"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00077",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00077.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00077.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Yq58sLOLNVQ",
+            "recorded_at": "2025-03-09T02:49:11.662150"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00043",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00043.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00043.jpg",
+            "video_url": "https://www.youtube.com/watch?v=YmZapoXn7E4",
+            "recorded_at": "2025-03-09T02:49:13.723351"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00021",
+            "txt_file_path": null,
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00021.jpg",
+            "video_url": "https://www.youtube.com/watch?v=u2TTkpWXuGo",
+            "recorded_at": "2025-03-09T02:49:15.374801"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00016",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00016.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00016.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Jd2SMYEsSVs",
+            "recorded_at": "2025-03-09T02:49:17.414996"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00006",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00006.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00006.jpg",
+            "video_url": "https://www.youtube.com/watch?v=t0ebyu0Rcn4",
+            "recorded_at": "2025-03-09T02:49:19.391724"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00025",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00025.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00025.jpg",
+            "video_url": "https://www.youtube.com/watch?v=rFvHrwqSjt4",
+            "recorded_at": "2025-03-09T02:49:21.544046"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00026",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00026.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00026.jpg",
+            "video_url": "https://www.youtube.com/watch?v=r-kumpTYs9g",
+            "recorded_at": "2025-03-09T02:49:23.790305"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00023",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00023.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00023.jpg",
+            "video_url": "https://www.youtube.com/watch?v=kn_HIvEFj8I",
+            "recorded_at": "2025-03-09T02:49:25.840777"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00015",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00015.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00015.jpg",
+            "video_url": "https://www.youtube.com/watch?v=fmXamz62SfU",
+            "recorded_at": "2025-03-09T02:49:27.661713"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00002",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00002.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00002.jpg",
+            "video_url": "https://www.youtube.com/watch?v=e6_7c-oAaWM",
+            "recorded_at": "2025-03-09T02:49:29.523649"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00013",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00013.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00013.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_XOipKdMxYw",
+            "recorded_at": "2025-03-09T02:49:31.398368"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00028",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00028.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00028.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_34r95FXzYo",
+            "recorded_at": "2025-03-09T02:49:33.664021"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00018",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00018.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00018.jpg",
+            "video_url": "https://www.youtube.com/watch?v=XimmucN1X8I",
+            "recorded_at": "2025-03-09T02:49:35.887675"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00017",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00017.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00017.jpg",
+            "video_url": "https://www.youtube.com/watch?v=WGNSuQQYuRk",
+            "recorded_at": "2025-03-09T02:49:37.854924"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00011",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00011.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00011.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Vffkh6Ggpag",
+            "recorded_at": "2025-03-09T02:49:40.123330"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00007",
+            "txt_file_path": null,
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00007.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Tk-IP2tvniQ",
+            "recorded_at": "2025-03-09T02:49:41.977480"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00014",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00014.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00014.jpg",
+            "video_url": "https://www.youtube.com/watch?v=TJrcZ4GZPs0",
+            "recorded_at": "2025-03-09T02:49:44.031363"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00012",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00012.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00012.jpg",
+            "video_url": "https://www.youtube.com/watch?v=QsmLsHIwlok",
+            "recorded_at": "2025-03-09T02:49:46.006492"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00004",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00004.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00004.jpg",
+            "video_url": "https://www.youtube.com/watch?v=OCI9sLt4i5Y",
+            "recorded_at": "2025-03-09T02:49:47.959096"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00005",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00005.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00005.jpg",
+            "video_url": "https://www.youtube.com/watch?v=NawHw_71sCk",
+            "recorded_at": "2025-03-09T02:49:50.195169"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00024",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00024.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00024.jpg",
+            "video_url": "https://www.youtube.com/watch?v=LP0mvzmV2JM",
+            "recorded_at": "2025-03-09T02:49:52.211159"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00019",
+            "txt_file_path": null,
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00019.jpg",
+            "video_url": "https://www.youtube.com/watch?v=KprJWjqdNd4",
+            "recorded_at": "2025-03-09T02:49:53.928556"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00009",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00009.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00009.jpg",
+            "video_url": "https://www.youtube.com/watch?v=BpXR-hhV2s8",
+            "recorded_at": "2025-03-09T02:49:55.678402"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00020",
+            "txt_file_path": null,
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00020.jpg",
+            "video_url": "https://www.youtube.com/watch?v=A5bFUhNEt3Q",
+            "recorded_at": "2025-03-09T02:49:57.441020"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00029",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00029.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00029.jpg",
+            "video_url": "https://www.youtube.com/watch?v=7LzFR-q4fCI",
+            "recorded_at": "2025-03-09T02:49:59.359775"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00010",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00010.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00010.jpg",
+            "video_url": "https://www.youtube.com/watch?v=732SZ1NgIp4",
+            "recorded_at": "2025-03-09T02:50:01.416117"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00003",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00003.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00003.jpg",
+            "video_url": "https://www.youtube.com/watch?v=4YNDmzftbZg",
+            "recorded_at": "2025-03-09T02:50:03.194968"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00001",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00001.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00001.jpg",
+            "video_url": "https://www.youtube.com/watch?v=1UZiFOdfxww",
+            "recorded_at": "2025-03-09T02:50:04.929035"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00022",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00022.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00022.jpg",
+            "video_url": "https://www.youtube.com/watch?v=16qxLIjNsI8",
+            "recorded_at": "2025-03-09T02:50:06.777760"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00030",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00030.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00030.jpg",
+            "video_url": "https://www.youtube.com/watch?v=0Ju3LVe9ohI",
+            "recorded_at": "2025-03-09T02:50:08.629911"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00008",
+            "txt_file_path": "subtitulos/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00008.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00008.jpg",
+            "video_url": "https://www.youtube.com/watch?v=yZ9p6N1HCsQ",
+            "recorded_at": "2025-03-09T02:50:10.487041"
+        },
+        {
+            "video_title": "Curso de Unreal Engine 4 11   parte 00027",
+            "txt_file_path": null,
+            "thumbnail_file_path": "miniaturas/Curso_de_Unreal_Engine_4.11/Curso_de_Unreal_Engine_4_11___parte_00027.jpg",
+            "video_url": "https://www.youtube.com/watch?v=xGA-NHSUf78",
+            "recorded_at": "2025-03-09T02:50:12.158453"
+        }
+    ],
+    "Curso_de_programación_de_videojuegos": [
+        {
+            "video_title": "Como programar un videojuego isométrico   parte 1",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos/Como_programar_un_videojuego_isométrico___parte_1.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos/Como_programar_un_videojuego_isométrico___parte_1.jpg",
+            "video_url": "https://www.youtube.com/watch?v=ArxabS7cO1A",
+            "recorded_at": "2025-03-09T02:50:14.797137"
+        },
+        {
+            "video_title": "Como programar un videojuego isométrico   parte 2",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos/Como_programar_un_videojuego_isométrico___parte_2.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos/Como_programar_un_videojuego_isométrico___parte_2.jpg",
+            "video_url": "https://www.youtube.com/watch?v=RL2omWcrkaw",
+            "recorded_at": "2025-03-09T02:50:16.763837"
+        },
+        {
+            "video_title": "Como programar un juego isométrico   parte 3",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos/Como_programar_un_juego_isométrico___parte_3.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos/Como_programar_un_juego_isométrico___parte_3.jpg",
+            "video_url": "https://www.youtube.com/watch?v=HOR31BCMEyw",
+            "recorded_at": "2025-03-09T02:50:18.620597"
+        },
+        {
+            "video_title": "Como programar un juego isométrico   parte 4",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos/Como_programar_un_juego_isométrico___parte_4.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos/Como_programar_un_juego_isométrico___parte_4.jpg",
+            "video_url": "https://www.youtube.com/watch?v=PnAhz56bxu4",
+            "recorded_at": "2025-03-09T02:50:20.639193"
+        },
+        {
+            "video_title": "Como programar un juego isométrico   parte 5",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos/Como_programar_un_juego_isométrico___parte_5.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos/Como_programar_un_juego_isométrico___parte_5.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Xqaup3UmHjU",
+            "recorded_at": "2025-03-09T02:50:22.663410"
+        },
+        {
+            "video_title": "Como programar un juego isométrico   parte 6",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos/Como_programar_un_juego_isométrico___parte_6.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos/Como_programar_un_juego_isométrico___parte_6.jpg",
+            "video_url": "https://www.youtube.com/watch?v=KURl2HVaOUQ",
+            "recorded_at": "2025-03-09T02:50:24.527848"
+        },
+        {
+            "video_title": "Como programar un juego isométrico   parte 7",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos/Como_programar_un_juego_isométrico___parte_7.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos/Como_programar_un_juego_isométrico___parte_7.jpg",
+            "video_url": "https://www.youtube.com/watch?v=VUNdzV8WDNU",
+            "recorded_at": "2025-03-09T02:50:26.647700"
+        },
+        {
+            "video_title": "Como programar un juego isométrico   parte 8",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_videojuegos/Como_programar_un_juego_isométrico___parte_8.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_videojuegos/Como_programar_un_juego_isométrico___parte_8.jpg",
+            "video_url": "https://www.youtube.com/watch?v=lx-v_ojxFVg",
+            "recorded_at": "2025-03-09T02:50:28.776446"
+        }
+    ],
+    "Curso_de_Blender_3": [
+        {
+            "video_title": "Curso de Blender 3 parte 1",
+            "txt_file_path": "subtitulos/Curso_de_Blender_3/Curso_de_Blender_3_parte_1.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Blender_3/Curso_de_Blender_3_parte_1.jpg",
+            "video_url": "https://www.youtube.com/watch?v=nCGwF2aByZ8",
+            "recorded_at": "2025-03-09T02:50:31.594090"
+        },
+        {
+            "video_title": "Curso de Blender 3 parte 2",
+            "txt_file_path": "subtitulos/Curso_de_Blender_3/Curso_de_Blender_3_parte_2.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Blender_3/Curso_de_Blender_3_parte_2.jpg",
+            "video_url": "https://www.youtube.com/watch?v=XwHRQXTTx24",
+            "recorded_at": "2025-03-09T02:50:33.959191"
+        },
+        {
+            "video_title": "Curso de Blender 3 parte 3",
+            "txt_file_path": "subtitulos/Curso_de_Blender_3/Curso_de_Blender_3_parte_3.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Blender_3/Curso_de_Blender_3_parte_3.jpg",
+            "video_url": "https://www.youtube.com/watch?v=nLvSywe_640",
+            "recorded_at": "2025-03-09T02:50:36.309968"
+        },
+        {
+            "video_title": "Curso de Blender 3 parte 4",
+            "txt_file_path": "subtitulos/Curso_de_Blender_3/Curso_de_Blender_3_parte_4.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Blender_3/Curso_de_Blender_3_parte_4.jpg",
+            "video_url": "https://www.youtube.com/watch?v=SfGCQFfDOic",
+            "recorded_at": "2025-03-09T02:50:38.557144"
+        },
+        {
+            "video_title": "Curso de Blender 3 parte 5",
+            "txt_file_path": "subtitulos/Curso_de_Blender_3/Curso_de_Blender_3_parte_5.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Blender_3/Curso_de_Blender_3_parte_5.jpg",
+            "video_url": "https://www.youtube.com/watch?v=ASloEWNjuPM",
+            "recorded_at": "2025-03-09T02:50:40.840117"
+        }
+    ],
+    "Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL": [
+        {
+            "video_title": "Curso de desarrollo de aplicaciones web con HTML5 CSS3 Javascript PHP y MySQL   Parte 15",
+            "txt_file_path": "subtitulos/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_15.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_15.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_eWl9BxPF2g",
+            "recorded_at": "2025-03-09T02:50:43.961696"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones web con HTML5 CSS3 Javascript PHP y MySQL   Parte 14",
+            "txt_file_path": "subtitulos/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_14.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_14.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Jgt6WbSq5As",
+            "recorded_at": "2025-03-09T02:50:46.161344"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones web con HTML5 CSS3 Javascript PHP y MySQL   Parte 13",
+            "txt_file_path": "subtitulos/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_13.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_13.jpg",
+            "video_url": "https://www.youtube.com/watch?v=fPjxqxeDuD4",
+            "recorded_at": "2025-03-09T02:50:48.479937"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones web con HTML5 CSS3 Javascript PHP y MySQL   Parte 12",
+            "txt_file_path": "subtitulos/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_12.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_12.jpg",
+            "video_url": "https://www.youtube.com/watch?v=MtEVe6dZFvY",
+            "recorded_at": "2025-03-09T02:50:50.530943"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones web con HTML5 CSS3 Javascript PHP y MySQL   Parte 11",
+            "txt_file_path": "subtitulos/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_11.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_11.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Qb1KcWtw7s8",
+            "recorded_at": "2025-03-09T02:50:52.658121"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones web con HTML5 CSS3 Javascript PHP y MySQL   Parte 10",
+            "txt_file_path": "subtitulos/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_10.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_10.jpg",
+            "video_url": "https://www.youtube.com/watch?v=OjR1xWNq9A4",
+            "recorded_at": "2025-03-09T02:50:54.923037"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones web con HTML5 CSS3 Javascript PHP y MySQL   Parte 9",
+            "txt_file_path": "subtitulos/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_9.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_9.jpg",
+            "video_url": "https://www.youtube.com/watch?v=iOzTKeIvrfs",
+            "recorded_at": "2025-03-09T02:50:57.187904"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones web con HTML5 CSS3 Javascript PHP y MySQL   Parte 8",
+            "txt_file_path": "subtitulos/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_8.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_8.jpg",
+            "video_url": "https://www.youtube.com/watch?v=YZ-16aSLmFY",
+            "recorded_at": "2025-03-09T02:50:59.344880"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones web con HTML5 CSS3 Javascript PHP y MySQL   Parte 7",
+            "txt_file_path": "subtitulos/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_7.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_7.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_TT6BB3THyA",
+            "recorded_at": "2025-03-09T02:51:01.463235"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones web con HTML5 CSS3 Javascript PHP y MySQL   Parte 6",
+            "txt_file_path": "subtitulos/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_6.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_6.jpg",
+            "video_url": "https://www.youtube.com/watch?v=HSeno_qiV6I",
+            "recorded_at": "2025-03-09T02:51:03.514745"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones web con HTML5 CSS3 Javascript PHP y MySQL   Parte 5",
+            "txt_file_path": "subtitulos/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_5.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_5.jpg",
+            "video_url": "https://www.youtube.com/watch?v=WlWl7tZRxeo",
+            "recorded_at": "2025-03-09T02:51:05.565022"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones web con HTML5 CSS3 Javascript PHP y MySQL   Parte 4",
+            "txt_file_path": "subtitulos/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_4.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_4.jpg",
+            "video_url": "https://www.youtube.com/watch?v=OYTaZdRZXqQ",
+            "recorded_at": "2025-03-09T02:51:07.630699"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones web con HTML5 CSS3 Javascript PHP y MySQL   Parte 3",
+            "txt_file_path": "subtitulos/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_3.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_3.jpg",
+            "video_url": "https://www.youtube.com/watch?v=AgM2zNzBlbQ",
+            "recorded_at": "2025-03-09T02:51:09.664198"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones web con HTML5 CSS3 Javascript PHP y MySQL   Parte 2",
+            "txt_file_path": "subtitulos/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_2.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_2.jpg",
+            "video_url": "https://www.youtube.com/watch?v=uGiEOLFoQDQ",
+            "recorded_at": "2025-03-09T02:51:11.897698"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones web con HTML5 CSS3 Javascript PHP y MySQL   Parte 1",
+            "txt_file_path": "subtitulos/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_1.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5,_CSS3,_Javascript,_PHP_y_MySQL/Curso_de_desarrollo_de_aplicaciones_web_con_HTML5_CSS3_Javascript_PHP_y_MySQL___Parte_1.jpg",
+            "video_url": "https://www.youtube.com/watch?v=bIDBvLJrZ20",
+            "recorded_at": "2025-03-09T02:51:14.660378"
+        }
+    ],
+    "Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial": [
+        {
+            "video_title": "Curso de desarrollo de aplicaciones con Inteligencia Artificial   Parte 1",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_1.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_1.jpg",
+            "video_url": "https://www.youtube.com/watch?v=gwq_DZOfm3E",
+            "recorded_at": "2025-03-09T02:51:17.661037"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones con Inteligencia Artificial   Parte 17",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_17.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_17.jpg",
+            "video_url": "https://www.youtube.com/watch?v=G_MopwEnxck",
+            "recorded_at": "2025-03-09T02:51:19.778404"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones con Inteligencia Artificial   Parte 15",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_15.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_15.jpg",
+            "video_url": "https://www.youtube.com/watch?v=OPtgzdE9pDA",
+            "recorded_at": "2025-03-09T02:51:21.841773"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones con Inteligencia Artificial   Parte 13",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_13.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_13.jpg",
+            "video_url": "https://www.youtube.com/watch?v=g9lVa-uFxmk",
+            "recorded_at": "2025-03-09T02:51:23.972511"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones con Inteligencia Artificial   Parte 12",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_12.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_12.jpg",
+            "video_url": "https://www.youtube.com/watch?v=biRdVNdmb-Y",
+            "recorded_at": "2025-03-09T02:51:25.723012"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones con Inteligencia Artificial   Parte 11",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_11.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_11.jpg",
+            "video_url": "https://www.youtube.com/watch?v=okhfxiUWpCI",
+            "recorded_at": "2025-03-09T02:51:27.588166"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones con Inteligencia Artificial   Parte 10",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_10.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_10.jpg",
+            "video_url": "https://www.youtube.com/watch?v=tGlvze2UHZk",
+            "recorded_at": "2025-03-09T02:51:29.706330"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones con Inteligencia Artificial   Parte 9",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_9.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_9.jpg",
+            "video_url": "https://www.youtube.com/watch?v=q1347jicJkw",
+            "recorded_at": "2025-03-09T02:51:31.589054"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones con Inteligencia Artificial   Parte 8",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_8.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_8.jpg",
+            "video_url": "https://www.youtube.com/watch?v=dezX2vpBVWI",
+            "recorded_at": "2025-03-09T02:51:33.547213"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones con Inteligencia Artificial   Parte 7",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_7.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_7.jpg",
+            "video_url": "https://www.youtube.com/watch?v=sajFmxrvWDo",
+            "recorded_at": "2025-03-09T02:51:35.506435"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones con Inteligencia Artificial   Parte 5",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_5.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_5.jpg",
+            "video_url": "https://www.youtube.com/watch?v=uc_tKoeKA8g",
+            "recorded_at": "2025-03-09T02:51:37.472941"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones con Inteligencia Artificial   Parte 4",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_4.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_4.jpg",
+            "video_url": "https://www.youtube.com/watch?v=E6HTdjPJ_sA",
+            "recorded_at": "2025-03-09T02:51:39.444302"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones con Inteligencia Artificial   Parte 3",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_3.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_3.jpg",
+            "video_url": "https://www.youtube.com/watch?v=e_0zF5Xsv3Q",
+            "recorded_at": "2025-03-09T02:51:41.697267"
+        },
+        {
+            "video_title": "Curso de desarrollo de aplicaciones con Inteligencia Artificial   Parte 2",
+            "txt_file_path": "subtitulos/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_2.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_programación_de_aplicaciones_de_Inteligencia_Artificial/Curso_de_desarrollo_de_aplicaciones_con_Inteligencia_Artificial___Parte_2.jpg",
+            "video_url": "https://www.youtube.com/watch?v=L_WYZwB-gYU",
+            "recorded_at": "2025-03-09T02:51:43.957484"
+        }
+    ],
+    "Curso_de_Python_-_01_-_Fundamentos": [
+        {
+            "video_title": "Curso de Python   01   Fundamentos   00001 Fundamentos de programacion",
+            "txt_file_path": "subtitulos/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00001_Fundamentos_de_programacion.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00001_Fundamentos_de_programacion.jpg",
+            "video_url": "https://www.youtube.com/watch?v=60nnewuB_cE",
+            "recorded_at": "2025-03-09T02:51:46.719967"
+        },
+        {
+            "video_title": "Curso de Python   01   Fundamentos   00002 Partes de un lenguaje de programacion",
+            "txt_file_path": "subtitulos/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00002_Partes_de_un_lenguaje_de_programacion.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00002_Partes_de_un_lenguaje_de_programacion.jpg",
+            "video_url": "https://www.youtube.com/watch?v=kBlbZ3F1FSc",
+            "recorded_at": "2025-03-09T02:51:48.758353"
+        },
+        {
+            "video_title": "Curso de Python   01   Fundamentos   00003 Aprendiendo cualquier lenguaje",
+            "txt_file_path": "subtitulos/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00003_Aprendiendo_cualquier_lenguaje.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00003_Aprendiendo_cualquier_lenguaje.jpg",
+            "video_url": "https://www.youtube.com/watch?v=q_MdZAcPbZ4",
+            "recorded_at": "2025-03-09T02:51:50.795497"
+        },
+        {
+            "video_title": "Curso de Python   01   Fundamentos   00004 Niveles de los lenguajes",
+            "txt_file_path": "subtitulos/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00004_Niveles_de_los_lenguajes.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00004_Niveles_de_los_lenguajes.jpg",
+            "video_url": "https://www.youtube.com/watch?v=8iApMjkVRFI",
+            "recorded_at": "2025-03-09T02:51:52.759309"
+        },
+        {
+            "video_title": "Curso de Python   01   Fundamentos   00006 Nuevo archivo",
+            "txt_file_path": "subtitulos/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00006_Nuevo_archivo.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00006_Nuevo_archivo.jpg",
+            "video_url": "https://www.youtube.com/watch?v=8KbQIMueHR4",
+            "recorded_at": "2025-03-09T02:51:55.713197"
+        },
+        {
+            "video_title": "Curso de Python   01   Fundamentos   00007 Distribucion de ventanas",
+            "txt_file_path": "subtitulos/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00007_Distribucion_de_ventanas.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00007_Distribucion_de_ventanas.jpg",
+            "video_url": "https://www.youtube.com/watch?v=g2YIWnPUcMs",
+            "recorded_at": "2025-03-09T02:51:57.688004"
+        },
+        {
+            "video_title": "Curso de Python   01   Fundamentos   00008 Variables",
+            "txt_file_path": "subtitulos/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00008_Variables.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00008_Variables.jpg",
+            "video_url": "https://www.youtube.com/watch?v=VNk4P8FDbZ0",
+            "recorded_at": "2025-03-09T02:51:59.711214"
+        },
+        {
+            "video_title": "Curso de Python   01   Fundamentos   00009 Imprimir en pantalla",
+            "txt_file_path": "subtitulos/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00009_Imprimir_en_pantalla.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00009_Imprimir_en_pantalla.jpg",
+            "video_url": "https://www.youtube.com/watch?v=aMnAHc6lz_Q",
+            "recorded_at": "2025-03-09T02:52:01.440511"
+        },
+        {
+            "video_title": "Curso de Python   01   Fundamentos   00010 Comentarios",
+            "txt_file_path": "subtitulos/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00010_Comentarios.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00010_Comentarios.jpg",
+            "video_url": "https://www.youtube.com/watch?v=RGQXVlYjPKU",
+            "recorded_at": "2025-03-09T02:52:03.805724"
+        },
+        {
+            "video_title": "Curso de Python   01   Fundamentos   00011 Operadores de comparacion",
+            "txt_file_path": "subtitulos/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00011_Operadores_de_comparacion.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00011_Operadores_de_comparacion.jpg",
+            "video_url": "https://www.youtube.com/watch?v=ui_AL7gRC9o",
+            "recorded_at": "2025-03-09T02:52:05.856340"
+        },
+        {
+            "video_title": "Curso de Python   01   Fundamentos   00013 Condicionales anidadas",
+            "txt_file_path": "subtitulos/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00013_Condicionales_anidadas.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00013_Condicionales_anidadas.jpg",
+            "video_url": "https://www.youtube.com/watch?v=vgit5fM0T74",
+            "recorded_at": "2025-03-09T02:52:07.714557"
+        },
+        {
+            "video_title": "Curso de Python   01   Fundamentos   00012 Estructura condicional",
+            "txt_file_path": "subtitulos/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00012_Estructura_condicional.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00012_Estructura_condicional.jpg",
+            "video_url": "https://www.youtube.com/watch?v=PG-uknII_gg",
+            "recorded_at": "2025-03-09T02:52:09.696642"
+        },
+        {
+            "video_title": "Curso de Python   01   Fundamentos   00014 Entradas de usuario",
+            "txt_file_path": "subtitulos/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00014_Entradas_de_usuario.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00014_Entradas_de_usuario.jpg",
+            "video_url": "https://www.youtube.com/watch?v=RUjuFV2kWB8",
+            "recorded_at": "2025-03-09T02:52:11.557772"
+        },
+        {
+            "video_title": "Curso de Python   01   Fundamentos   00015 Multiples entradas",
+            "txt_file_path": "subtitulos/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00015_Multiples_entradas.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00015_Multiples_entradas.jpg",
+            "video_url": "https://www.youtube.com/watch?v=kFIg0WuQfeE",
+            "recorded_at": "2025-03-09T02:52:13.727532"
+        },
+        {
+            "video_title": "Curso de Python   01   Fundamentos   00016 Apertura del proyecto",
+            "txt_file_path": "subtitulos/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00016_Apertura_del_proyecto.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00016_Apertura_del_proyecto.jpg",
+            "video_url": "https://www.youtube.com/watch?v=oE4p89IwTPo",
+            "recorded_at": "2025-03-09T02:52:15.642458"
+        },
+        {
+            "video_title": "Curso de Python   01   Fundamentos   00017 Casos de operaciones",
+            "txt_file_path": "subtitulos/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00017_Casos_de_operaciones.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00017_Casos_de_operaciones.jpg",
+            "video_url": "https://www.youtube.com/watch?v=oBvqBM6S0IU",
+            "recorded_at": "2025-03-09T02:52:18.061160"
+        },
+        {
+            "video_title": "Curso de Python   01   Fundamentos   00018 Creacion de funciones",
+            "txt_file_path": "subtitulos/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00018_Creacion_de_funciones.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00018_Creacion_de_funciones.jpg",
+            "video_url": "https://www.youtube.com/watch?v=l84b9JxZPKE",
+            "recorded_at": "2025-03-09T02:52:20.213551"
+        },
+        {
+            "video_title": "Curso de Python   01   Fundamentos   00019 Bases de datos",
+            "txt_file_path": "subtitulos/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00019_Bases_de_datos.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python_-_01_-_Fundamentos/Curso_de_Python___01___Fundamentos___00019_Bases_de_datos.jpg",
+            "video_url": "https://www.youtube.com/watch?v=QJCDLnsvv18",
+            "recorded_at": "2025-03-09T02:52:22.164028"
+        }
+    ],
+    "Curso_de_Python": [
+        {
+            "video_title": "Curso de Python 01 Fundamentos",
+            "txt_file_path": "subtitulos/Curso_de_Python/Curso_de_Python_01_Fundamentos.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python/Curso_de_Python_01_Fundamentos.jpg",
+            "video_url": "https://www.youtube.com/watch?v=cvZ4hLCl_w0",
+            "recorded_at": "2025-03-09T02:52:24.872780"
+        },
+        {
+            "video_title": "Curso de Python 02 Ejercicio Agenda telefónica",
+            "txt_file_path": "subtitulos/Curso_de_Python/Curso_de_Python_02_Ejercicio_Agenda_telefónica.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python/Curso_de_Python_02_Ejercicio_Agenda_telefónica.jpg",
+            "video_url": "https://www.youtube.com/watch?v=zUlbYc9lhhs",
+            "recorded_at": "2025-03-09T02:52:27.295501"
+        },
+        {
+            "video_title": "Curso de Python 03 Conexion con SQLite",
+            "txt_file_path": "subtitulos/Curso_de_Python/Curso_de_Python_03_Conexion_con_SQLite.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python/Curso_de_Python_03_Conexion_con_SQLite.jpg",
+            "video_url": "https://www.youtube.com/watch?v=q9Tf9KNXQMI",
+            "recorded_at": "2025-03-09T02:52:29.710645"
+        },
+        {
+            "video_title": "Curso de Python 04 TKinter",
+            "txt_file_path": "subtitulos/Curso_de_Python/Curso_de_Python_04_TKinter.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python/Curso_de_Python_04_TKinter.jpg",
+            "video_url": "https://www.youtube.com/watch?v=0wLiQJRb0Bc",
+            "recorded_at": "2025-03-09T02:52:31.925509"
+        },
+        {
+            "video_title": "Curso de Python 05 Modulos",
+            "txt_file_path": "subtitulos/Curso_de_Python/Curso_de_Python_05_Modulos.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python/Curso_de_Python_05_Modulos.jpg",
+            "video_url": "https://www.youtube.com/watch?v=JgDKiWB9-cc",
+            "recorded_at": "2025-03-09T02:52:33.831889"
+        },
+        {
+            "video_title": "Curso de Python 06 Programación orientada a objetos",
+            "txt_file_path": "subtitulos/Curso_de_Python/Curso_de_Python_06_Programación_orientada_a_objetos.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python/Curso_de_Python_06_Programación_orientada_a_objetos.jpg",
+            "video_url": "https://www.youtube.com/watch?v=M4bEBwKfXPc",
+            "recorded_at": "2025-03-09T02:52:36.006664"
+        },
+        {
+            "video_title": "Curso de Python 07 Ejercicio formas animadas",
+            "txt_file_path": "subtitulos/Curso_de_Python/Curso_de_Python_07_Ejercicio_formas_animadas.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python/Curso_de_Python_07_Ejercicio_formas_animadas.jpg",
+            "video_url": "https://www.youtube.com/watch?v=h2q1KsQT_RU",
+            "recorded_at": "2025-03-09T02:52:38.359638"
+        },
+        {
+            "video_title": "Curso de Python 08 Tratamiento de imagenes",
+            "txt_file_path": "subtitulos/Curso_de_Python/Curso_de_Python_08_Tratamiento_de_imagenes.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python/Curso_de_Python_08_Tratamiento_de_imagenes.jpg",
+            "video_url": "https://www.youtube.com/watch?v=7PWXThSBQDo",
+            "recorded_at": "2025-03-09T02:52:40.377952"
+        },
+        {
+            "video_title": "Curso de Python 09 Gráficas",
+            "txt_file_path": "subtitulos/Curso_de_Python/Curso_de_Python_09_Gráficas.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python/Curso_de_Python_09_Gráficas.jpg",
+            "video_url": "https://www.youtube.com/watch?v=UwwLOFxnmOU",
+            "recorded_at": "2025-03-09T02:52:42.640446"
+        },
+        {
+            "video_title": "Curso de Python 10 MySQL y gráficas",
+            "txt_file_path": "subtitulos/Curso_de_Python/Curso_de_Python_10_MySQL_y_gráficas.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python/Curso_de_Python_10_MySQL_y_gráficas.jpg",
+            "video_url": "https://www.youtube.com/watch?v=n9IfvaxsbTw",
+            "recorded_at": "2025-03-09T02:52:44.541948"
+        },
+        {
+            "video_title": "Curso de Python 11 Inteligencia artificial",
+            "txt_file_path": "subtitulos/Curso_de_Python/Curso_de_Python_11_Inteligencia_artificial.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python/Curso_de_Python_11_Inteligencia_artificial.jpg",
+            "video_url": "https://www.youtube.com/watch?v=Nk-xGmR_IhI",
+            "recorded_at": "2025-03-09T02:52:47.260951"
+        },
+        {
+            "video_title": "Curso de Python 12 Trabajo con cadenas",
+            "txt_file_path": "subtitulos/Curso_de_Python/Curso_de_Python_12_Trabajo_con_cadenas.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python/Curso_de_Python_12_Trabajo_con_cadenas.jpg",
+            "video_url": "https://www.youtube.com/watch?v=iNgaSWvoD6I",
+            "recorded_at": "2025-03-09T02:52:49.189262"
+        },
+        {
+            "video_title": "Curso de Python 13 JSON",
+            "txt_file_path": "subtitulos/Curso_de_Python/Curso_de_Python_13_JSON.txt",
+            "thumbnail_file_path": "miniaturas/Curso_de_Python/Curso_de_Python_13_JSON.jpg",
+            "video_url": "https://www.youtube.com/watch?v=9ZNFvq8_4cM",
+            "recorded_at": "2025-03-09T02:52:51.463035"
+        }
+    ]
+}
